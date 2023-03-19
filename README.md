@@ -1,1 +1,1 @@
-![index](./img/banner.jpg)
+![index](./img/banner.gif)
